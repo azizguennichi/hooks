@@ -1,0 +1,10 @@
+.aziz{
+    text-align: center;
+    text-decoration: double;
+    color: red;
+}
+.guennichi{
+    color: blue;
+text-align: center;
+-ms-text-combine-horizontal:digits;
+}
